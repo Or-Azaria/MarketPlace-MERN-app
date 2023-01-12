@@ -1,10 +1,8 @@
-![Home page](https://www.linkpicture.com/q/Screenshot-2023-01-12-at-19.27.52.png)
-
-
-
-
-
-
+![stores](https://www.linkpicture.com/q/Screenshot-2023-01-12-at-19.27.52.png)
+![stores](https://www.linkpicture.com/q/Screenshot-2023-01-12-at-19.28.09.png)
+![stores](https://www.linkpicture.com/q/Screenshot-2023-01-12-at-19.28.23.png)
+![stores](https://www.linkpicture.com/q/Screenshot-2023-01-12-at-19.29.52.png)
+![stores](https://www.linkpicture.com/q/Screenshot-2023-01-12-at-19.30.09.png)
 
 
 # MarketPlace (B2C App)
