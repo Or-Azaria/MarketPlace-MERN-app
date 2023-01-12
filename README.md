@@ -1,3 +1,12 @@
+![Home page](https://www.linkpicture.com/q/Screenshot-2023-01-12-at-19.27.52.png)
+
+
+
+
+
+
+
+
 # MarketPlace (B2C App)
 
 Welcome to MarketPlace, a B2C (Business-to-Consumer) application built using the MERN (MongoDB, Express, React, Node.js) stack and authentication libraries such as formik and State management such as the redux toolkit.
